@@ -1,5 +1,8 @@
 # API testing
 
+Studied the basics of API testing (SOAP, REST), working with Postman (authorization, HTTP methods, automated tests), Swagger.
+
+
 [Postman collection](https://github.com/user-attachments/files/18463798/qa-demoshopping.postman_test_run.json) for [DemoShopping](https://qa.demoshopping.ru/) Web App.
 
 [Postman collection](https://github.com/user-attachments/files/18826556/SOAP.postman_collection.json.zip) for CountryInfoService, created on the basis of [WSDL](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL)
